@@ -1,5 +1,5 @@
 package single;
-
+//hi
 public class Main {
 private static Main instance= new Main();
 private Main(){
